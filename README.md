@@ -133,14 +133,10 @@ In cell number 19 we are calculating the accurayc of model on test data and it i
 </td><td><img src="Web_images/8.jpg"></td>
 <td><img src="Web_images/9.jpeg">
 </td><td><img src="Web_images/10.jpg">
+    </td></tr><table>
 
 In cell number 24 the labels are assigned based on observation from images.
 <br>new_labels = [33,14,34,27,3,13,9,1,4,25]
 
 In cell number 25 we are checking the performance of model on these new images which is
 0.80 obtained here.
-
-
-```python
-
-```
